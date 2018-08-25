@@ -2,5 +2,5 @@
 
 ```
 $ yarn
-$ tsc index.ts
+$ ./node_modules/.bin/tsc index.ts
 ```
